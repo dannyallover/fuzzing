@@ -117,4 +117,4 @@ void EncodeTimestamp(const google::protobuf::Timestamp& timestamp,
                  [](char c) -> size_t { return c; });
 }
 
-}  // namespace asn1_universal_types
+}  // namespace asn1_universal_types_fdsafsas
